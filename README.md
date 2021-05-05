@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Page!
 
-You can use the [editor on GitHub](https://github.com/kkgj/weishang-zhong/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! My name is Weishang(Gordon) Zhong, a rising senior at [StonyBrook](https://www.stonybrook.edu/) University. I am a dual major in Computer Science and Mathematics.
 
 ### Markdown
 
