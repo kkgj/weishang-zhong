@@ -1,6 +1,6 @@
 ## Welcome to My Page!
 
-Hello! My name is Weishang(Gordon) Zhong, a rising senior at [StonyBrook](https://www.stonybrook.edu/) University. I am a dual major in Computer Science and Mathematics.
+Hello! My name is Weishang(Gordon) Zhong, a rising senior at [Stony Brook University](https://www.stonybrook.edu/). I am a dual major in Computer Science and Mathematics.
 
 ### Markdown
 
