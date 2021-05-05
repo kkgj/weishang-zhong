@@ -2,11 +2,3 @@ theme: jekyll-theme-minimal
 title: Weishang(Gordon) Zhong
 description: Contact: gordon.zhong99@gmail.com
 logo: /selfie.jpg
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
