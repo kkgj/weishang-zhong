@@ -2,13 +2,15 @@
 
 Hello! My name is Weishang(Gordon) Zhong, a rising senior at [Stony Brook University](https://www.stonybrook.edu/). I am a dual major in Computer Science and Mathematics.
 
-### Resume
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Resume](https://github.com/kkgj/weishang-zhong/blob/main/Re%CC%81sume.pdf)
 
 ### CSE300 Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kkgj/weishang-zhong/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Cover Letter
+
+User Instructions
+
+News Release
 
 ### Contact
 
