@@ -16,4 +16,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 [Github](https://github.com/kkgj)
 
-[Email](gordon.zhong99@gmail.com)
+Email: gordon.zhong99@gmail.com
